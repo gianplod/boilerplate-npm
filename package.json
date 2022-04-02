@@ -1,7 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment":"^2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -12,5 +13,8 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author" : "gianplod",
-	"description": "Test project for Back end development and APIS fCC Certification"
+	"description": "Test project for Back end development and APIS fCC Certification",
+	"keywords": ["freecodecamp", "learning", "testing", "APIs", "backend"],
+	"license": "MIT",
+	"version": "1.0.0"
 }
